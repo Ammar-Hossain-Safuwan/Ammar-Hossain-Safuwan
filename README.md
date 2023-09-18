@@ -5,7 +5,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 📫 How to reach me through-
 - 📧 ammarhossainsafuwan@gmail.com
 - 🤙 +8801919663366
-- 🧑‍💼 www.linkedin.com/in/ammar-hossain-safuwan-442960282
+- 🖥️ www.linkedin.com/in/ammar-hossain-safuwan-442960282
+- 🌐 www.facebook.com/profile.php?id=100076232101403
+- #️⃣ ammar_hossain_safuwan
+- 📍  🅲🆃🅶🇧🇩
 
 <!---
 Ammar-Hossain-Safuwan/Ammar-Hossain-Safuwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
