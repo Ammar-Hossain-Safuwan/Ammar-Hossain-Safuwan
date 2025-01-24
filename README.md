@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Ammar-Hossain-Safuwan
-- 👀 I’m interested in programming,data science,machine learning,artificial intelligence etc
+- 👀 I’m interested in programming,data science,machine learning,artificial intelligence,graphics design,video editing,office management etc
 - My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.![Uploading image.png…]()
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source!
 - 📫 How to reach me through-
 - 📧 ammarhossainsafuwan@gmail.com
 - 🤙 +8801919663366
 - 🖥️ www.linkedin.com/in/ammar-hossain-safuwan-442960282
 - 🌐 www.facebook.com/profile.php?id=100076232101403
-- #️⃣ ammar_hossain_safuwan
+  -#️⃣https://www.instagram.com/ammar_hossain_safuwan/
 - 📍  🅲🆃🅶🇧🇩
 
 <!---
